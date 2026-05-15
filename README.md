@@ -1,3 +1,14 @@
+---
+title: Demand Pulse
+emoji: ⚡
+colorFrom: indigo
+colorTo: red
+sdk: docker
+app_port: 7860
+pinned: false
+license: mit
+---
+
 # Demand Pulse — Food Delivery Surge Analysis
 
 > One-line: Three Monday-morning policy changes for the Ops Head, 
