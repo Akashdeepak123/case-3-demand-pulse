@@ -136,7 +136,7 @@ range ₹40-150). Validate against internal cost data before pilot.
 
 ---
 
-## What we didn't address (honest scope)
+## What I didn't address
 
 - **Restaurant-level surge.** Some restaurants likely attract surge 
   unfairly relative to their demand. Out of scope for this iteration.
